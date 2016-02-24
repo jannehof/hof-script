@@ -1,0 +1,3 @@
+the aim is to upload this file to github via git on command line
+I'll try with:
+ https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/
